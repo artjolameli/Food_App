@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">Foodie_App_MP5</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="place_holder">Image holder</string>
+    <string name="Calories">Calories</string>
+    <string name="Ingredients">Ingredients</string>
+    <string name="Description">Description</string>
+    <string name="Food">Title</string>
+    <string name="Link">https://www.farandwide.com/s/europe-traditional-food-bf3982a5f9c44ca8</string>
+    <string name="food_name">Food Name</string>
+    <string name="add_food">Add Food</string>
+    <string name="food_description">Food Description</string>
+    <string name="food_ingredients">Food Ingredients</string>
+    <string name="food_calories">Food Calories</string>
+    <string name="link_to_online_recipe">Link to Online Recipe</string>
+
+    <array name="item_images">
+        <item>@drawable/apple_strudel</item>
+        <item>@drawable/byrek</item>
+        <item>@drawable/cevapi</item>
+        <item>@drawable/crepe</item>
+        <item>@drawable/dolma</item>
+        <item>@drawable/lobster_thermidor</item>
+        <item>@drawable/paella</item>
+        <item>@drawable/pierogi</item>
+        <item>@drawable/plov</item>
+    </array>
+
+    <array name="item_titles">
+        <item>Apple Strudel</item>
+        <item>Byrek</item>
+        <item>Cevapi</item>
+        <item>Crepe</item>
+        <item>Dolma</item>
+        <item>Lobster Thermidor</item>
+        <item>Paella</item>
+        <item>Piergoi</item>
+        <item>Plov</item>
+    </array>
+
+    <array name="item_descriptions">
+        <item>Description: Apple Strudel Description</item>
+        <item>Description: Byrek Description</item>
+        <item>Description: Cevapi Description</item>
+        <item>Description: Crepe Description</item>
+        <item>Description: Dolma Description</item>
+        <item>Description: Lobster Thermidor Description</item>
+        <item>Description: Paella Description</item>
+        <item>Description: Piergoi Description</item>
+        <item>Description: Plov Description</item>
+    </array>
+
+    <array name="item_ingredients">
+        <item>Ingredients: Apple Strudel Ingredients</item>
+        <item>Ingredients: Byrek Ingredients</item>
+        <item>Ingredients: Cevapi Ingredients</item>
+        <item>Ingredients: Crepe Ingredients</item>
+        <item>Ingredients: Dolma Ingredients</item>
+        <item>Ingredients: Lobster Thermidor Ingredients</item>
+        <item>Ingredients: Paella Ingredients</item>
+        <item>Ingredients: Pierogi Ingredients</item>
+        <item>Ingredients: Plov Ingredients</item>
+    </array>
+
+    <array name="item_calories">
+        <item>Calories: 100_cal</item>
+        <item>Calories: 230_cal</item>
+        <item>Calories: 430_cal</item>
+        <item>Calories: 560_cal</item>
+        <item>Calories: 650_cal</item>
+        <item>Calories: 430_cal</item>
+        <item>Calories: 2340_cal</item>
+        <item>Calories: 3240_cal</item>
+        <item>Calories: 450_cal</item>
+        <item>Calories: 5400_cal</item>
+        <item>Calories: 450_cal</item>
+        <item>Calories: 230_cal</item>
+    </array>
+
+    <array name="item_links">
+        <item>https://www.farandwide.com/s/europe-traditional-food-bf3982a5f9c44ca8</item>
+        <item>https://www.farandwide.com/s/europe-traditional-food-bf3982a5f9c44ca8</item>
+        <item>https://www.farandwide.com/s/europe-traditional-food-bf3982a5f9c44ca8</item>
+        <item>https://www.farandwide.com/s/europe-traditional-food-bf3982a5f9c44ca8</item>
+        <item>https://www.farandwide.com/s/europe-traditional-food-bf3982a5f9c44ca8</item>
+        <item>https://www.farandwide.com/s/europe-traditional-food-bf3982a5f9c44ca8</item>
+        <item>https://www.farandwide.com/s/europe-traditional-food-bf3982a5f9c44ca8</item>
+        <item>https://www.farandwide.com/s/europe-traditional-food-bf3982a5f9c44ca8</item>
+        <item>https://www.farandwide.com/s/europe-traditional-food-bf3982a5f9c44ca8</item>
+
+    </array>
+</resources>

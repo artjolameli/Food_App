@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="wrap_content"
+    android:layout_width="wrap_content"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:background="@color/design_default_color_background"
+        android:textSize="36sp"
+        android:textStyle="bold"
+        android:text="@string/add_food"
+        android:padding="16dp"/>
+
+    <EditText
+        android:id="@+id/dialog_item_title"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:hint="@string/food_name"
+        android:inputType="text"
+        android:importantForAutofill="no" />
+
+    <EditText
+        android:id="@+id/item_description"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:hint="@string/food_description"
+        android:inputType="text"
+        android:importantForAutofill="no" />
+
+    <EditText
+        android:id="@+id/item_ingredients"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:hint="@string/food_ingredients"
+        android:inputType="text"
+        android:importantForAutofill="no" />
+
+    <EditText
+        android:id="@+id/item_calories"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:hint="@string/food_calories"
+        android:inputType="text"
+        android:importantForAutofill="no" />
+
+    <EditText
+        android:id="@+id/item_link"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:hint="@string/link_to_online_recipe"
+        android:inputType="text"
+        android:importantForAutofill="no" />
+
+</LinearLayout>
